@@ -30,3 +30,5 @@ public/cache/*
 /themes/*
 !/themes/bootstrap-2
 gems/
+
+.localeapp
